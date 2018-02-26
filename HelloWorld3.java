@@ -6,6 +6,7 @@ public class HelloWorld2 {
 		// TODO 自動生成されたメソッド・スタブ
 
 		System.out.println("test2");
+		System.out.println("test2add");
 	}
 
 }
